@@ -1,0 +1,18 @@
+@font-face{
+    font-family: lato-reg;
+    src: url("../../font/lato/Lato-Regular.ttf");
+}
+@font-face{
+    font-family: lato-bold;
+    src: url("../../font/lato/Lato-Bold.ttf");
+}
+
+
+@font-face{
+    font-family: open;
+    src: url("../../font/open-sans/OpenSans-Regular.ttf");
+}
+@font-face{
+    font-family: open-bold;
+    src: url("../../font/open-sans/OpenSans-Bold.ttf");
+}
